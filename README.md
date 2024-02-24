@@ -5,7 +5,7 @@ Since Unreal is generally geared towards 3D games with complex graphics I've dec
 2. Create a base that I can use to continue making a game with (or multiple games)
 3. To provide a starting point for others to use as well
 
-I may add more to this template as I continue developing my game.
+I may add more to this template as I continue developing my game. (This was copied over from my private game repository)
 
 # Project Overview
 
